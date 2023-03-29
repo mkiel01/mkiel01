@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### How to reach me:
+
+<a href="https://www.linkedin.com/in/micha%C5%82-kie%C5%82kowski-781152267/">
+  <img align="left" alt="Michał Kiełkowski | LinkedIn" width="40px" src="" />
+</a>
+
+<a href="mailto:mkielkowski01@gmail.com">
+  <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="" />
+</a>
+
+</br>
+</br>
