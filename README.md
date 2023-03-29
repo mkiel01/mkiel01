@@ -3,7 +3,17 @@
 I'm Michał, a third year student of Mechatronic Engineering at AGH University of Science and Technology.
 
 </br>
+
+<h2>About me</h2>
+<ul>
+    <li>💻  Currently learning Django and Javascripy </li>
+    <li>🔭  Interested in Personal devolopment </li>
+    <li>💬  Most of my time I spend on my website </li>
+</ul>
+
 </br>
+</br>
+
 
 <!--
 **mkiel01/mkiel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
