@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td valign="top">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkiel01&show_icons=true&locale=en" height="200" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkiel01&theme=dark&show_icons=true&locale=en" height="200" />
         </td>
         <td valign="top">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mkiel01&show_icons=true&locale=en" height="200" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mkiel01&theme=dark&show_icons=true&locale=en" height="200" />
         </td>
     </tr>
 </table>
