@@ -7,8 +7,8 @@ I'm Michał, a third year student of Mechatronic Engineering at AGH University o
 <h2>About me</h2>
 <ul>
     <li>💻  Currently learning Django and Javascripy </li>
-    <li>🔭  Interested in Personal devolopment </li>
-    <li>💬  Most of my time I spend on my website </li>
+    <li>⚡  Interested in Personal devolopment </li>
+    <li>💬  Currently thinking on how to improve my website </li>
 </ul>
 
 </br>
