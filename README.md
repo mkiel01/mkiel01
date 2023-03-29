@@ -69,9 +69,9 @@ Here are some ideas to get you started:
             <img src="https://github-readme-stats.vercel.app/api?username=mkiel01&show_icons=true&theme=tokyonight" height="200" />
         </td>
         <td valign="top">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiel01&langs_count=25&layout=compact&show_icons=true&icon_color=0096ff&theme=tokyonight" height="200" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkiel01&show_icons=true&locale=en&layout=compact" height="200" />
         </td>
     </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkiel01&show_icons=true&locale=en&layout=compact" alt="mkiel01" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkiel01&show_icons=true&locale=en&layout=compact" alt="mkiel01" /></p>
