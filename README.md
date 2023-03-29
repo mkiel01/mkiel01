@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm Michał, a third year student of Mechatronic Engineering at AGH University of Science and Technology.
+
+</br>
+</br>
 
 <!--
 **mkiel01/mkiel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
