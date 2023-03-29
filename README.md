@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:mkielkowski01@gmail.com">
-  <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="" />
+  <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="https://github.com/mkiel01/mkiel01/blob/main/icons/gmail.png" />
 </a>
 
 </br>
