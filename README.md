@@ -44,6 +44,23 @@ Here are some ideas to get you started:
 </br>
 </br>
 
+### Languages and Tools:
+
+<div align="left">
+  
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/python.png" alt="website" width="40"/>
+  
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/django.png" alt="website" width="40"/>
+  
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/html.png" alt="website" width="40"/>
+  
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/css.png" alt="website" width="40"/>
+  
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
+  
+  
+</div>
+
 ## My github stats:
 
 <table>
