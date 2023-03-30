@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<img align="right" alt="GIF" src="" width="500" height="320" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="500" height="320" />
 
 
 ## My github stats:
