@@ -2,11 +2,6 @@
 
 I'm Michał, a third year student of Mechatronic Engineering at AGH University of Science and Technology.
 
-
-
-</br>
-
-
 <h2>About me</h2>
 <img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" width="500" height="380" />
 
@@ -15,7 +10,6 @@ I'm Michał, a third year student of Mechatronic Engineering at AGH University o
     <li>⚡  Interested in Personal devolopment </li>
     <li>💬  Currently thinking on how to improve my website </li>
 </ul>
-
 
 </br>
 
@@ -63,14 +57,7 @@ Here are some ideas to get you started:
   
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
     
-  
-  
-  
 </div>
-
-
-
-
 
 ## My github stats:
 
