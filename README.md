@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:mkielkowski01@gmail.com">
-  <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" />
+  <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="https://github.com/mkiel01/mkiel01/blob/main/icons/gmail.png" />
 </a>
 
 </br>
@@ -77,12 +77,10 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td valign="top">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkiel01&theme=midnight-purple&show_icons=true&locale=en" height="200" />
+            <img src="https://github-readme-stats.vercel.app/api?username=mkiel01&show_icons=true&theme=tokyonight" height="200" />
         </td>
         <td valign="top">
-           
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mkiel01&theme=midnight-purple&show_icons=true&locale=en" height="200" />
-            
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiel01&langs_count=25&layout=compact&show_icons=true&icon_color=0096ff&theme=tokyonight" height="200" />
         </td>
     </tr>
 </table>
