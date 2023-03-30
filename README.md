@@ -57,12 +57,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/css.png" alt="website" width="40"/>
   
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
+    
+  <img align="right" alt="GIF" src="https://tenor.com/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808" width="500" height="320" />
   
   
 </div>
 
 
- ![github](https://user-images.githubusercontent.com/80817115/228898537-0572f268-0114-4d9d-9383-008ab8969dee.gif) 
+<img align="right" alt="GIF" src="" width="500" height="320" />
 
 
 ## My github stats:
