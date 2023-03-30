@@ -6,7 +6,7 @@ I'm Michał, a third year student of Mechatronic Engineering at AGH University o
 
 </br>
 
-<img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" width="400" height="320" />
+<img align="right" margin-top:20px alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" width="400" height="320" />
 
 <h2>About me</h2>
 <ul>
