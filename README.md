@@ -61,7 +61,8 @@ Here are some ideas to get you started:
   
 </div>
 
-<img align="right" ![github](https://user-images.githubusercontent.com/80817115/228898537-0572f268-0114-4d9d-9383-008ab8969dee.gif) />
+
+ ![github](https://user-images.githubusercontent.com/80817115/228898537-0572f268-0114-4d9d-9383-008ab8969dee.gif) 
 
 
 ## My github stats:
