@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:mkielkowski01@gmail.com">
-  <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="https://github.com/mkiel01/mkiel01/blob/main/icons/gmail.png" />
+  <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" />
 </a>
 
 </br>
