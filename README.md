@@ -16,7 +16,7 @@ I'm Michał, a third year student of Mechatronic Engineering at AGH University o
     <li>💬  Currently thinking on how to improve my website </li>
 </ul>
 
-</br>
+
 </br>
 
 
