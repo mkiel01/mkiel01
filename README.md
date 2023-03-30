@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
     
-  <img align="right" alt="GIF" src="https://tenor.com/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808" width="500" height="320" />
+  
   
   
 </div>
