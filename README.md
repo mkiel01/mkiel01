@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 </a>
 
 </br>
+</br>
 
 ### Languages and Tools:
 
@@ -58,6 +59,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
     
 </div>
+
+</br>
+</br>
+</br>
 
 ## My github stats:
 
