@@ -8,7 +8,7 @@ I'm Michał, a third year student of Mechatronic Engineering at AGH University o
 
 
 <h2>About me</h2>
-<img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" width="500" height="380" />
+<img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" width="500" height="380" />
 
 <ul>
     <li>💻  Currently learning Django and Javascripy </li>
