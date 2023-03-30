@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="500" height="320" />
+<img align="right" alt="GIF" src="<iframe src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" width="500" height="320" />
 
 
 ## My github stats:
