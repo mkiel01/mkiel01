@@ -2,6 +2,8 @@
 
 I'm Michał, a third year student of Mechatronic Engineering at AGH University of Science and Technology.
 
+</br>
+
 <h2>About me</h2>
 <img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" width="500" height="380" />
 
@@ -12,7 +14,6 @@ I'm Michał, a third year student of Mechatronic Engineering at AGH University o
 </ul>
 
 </br>
-
 
 <!--
 **mkiel01/mkiel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Michał Kiełkowski | Gmail" width="40px" src="https://github.com/mkiel01/mkiel01/blob/main/icons/gmail.png" />
 </a>
 
-</br>
 </br>
 
 ### Languages and Tools:
