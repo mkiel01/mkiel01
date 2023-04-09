@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### How to reach me:
 
-<a href="https://www.linkedin.com/in/micha%C5%82-kie%C5%82kowski-781152267/">
+<a href="https://www.linkedin.com/in/michalkielkowski/">
   <img align="left" alt="Michał Kiełkowski | LinkedIn" width="40px" src="https://github.com/mkiel01/mkiel01/blob/main/icons/linkedin.png" />
 </a>
 
