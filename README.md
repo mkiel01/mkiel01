@@ -14,7 +14,7 @@ I'm Michał, a third year student of Mechatronic Engineering at AGH University o
 </ul>
 
 </br>
-</br>
+
 
 <!--
 **mkiel01/mkiel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
