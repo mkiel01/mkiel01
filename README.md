@@ -3,7 +3,7 @@
 I'm Michał, a third year student of Mechatronic Engineering at AGH University of Science and Technology.
 
 </br>
-</br>
+
 <h2>About me</h2>
 <img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" width="500" height="380" />
 
