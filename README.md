@@ -1,6 +1,6 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Michał, a third year student of Mechatronic Engineering at AGH University of Science and Technology.
+I'm Michał, a fourth year student of Mechatronic Engineering at AGH University of Science and Technology.
 
 </br>
 
