@@ -16,22 +16,13 @@ I'm Michał, a first-year master's student of Informatics at AGH University of S
 
 </br>
 
+### LeetCode:
 
-<!--
-**mkiel01/mkiel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://leetcode.com/mkiel01/">
+  <img align="left" alt="Michał Kiełkowski | LinkedIn" width="40px" src="https://github.com/mkiel01/mkiel01/blob/main/icons/leetcode.png" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
-
+</br>
 
 ### How to reach me:
 
@@ -63,6 +54,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/matlab.png" alt="website" width="40"/>
 
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/git.png" alt="website" width="40"/>
+
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/gitlab.png" alt="website" width="40"/>
+
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/docker.png" alt="website" width="40"/>
+
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/apache kafka.png" alt="website" width="40"/>
+
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/triggermesh.png" alt="website" width="40"/>
 
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
 
