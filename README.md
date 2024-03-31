@@ -55,7 +55,7 @@ I'm Michał, a first-year master's student of Informatics at AGH University of S
 
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/git.png" alt="website" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/gitlab.jpng" alt="website" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/gitlab.jpeg" alt="website" width="40"/>
 
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/docker.png" alt="website" width="40"/>
 
