@@ -61,8 +61,6 @@ I'm Michał, a first-year master's student of Informatics at AGH University of S
 
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/apache_kafka.png" alt="website" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/triggermesh.png" alt="website" width="40"/>
-
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
 
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/clion.png" alt="website" width="40"/>
