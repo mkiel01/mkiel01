@@ -6,7 +6,7 @@ I'm Michał, a first-year master's student of Informatics at AGH University of S
 </br>
 
 <h2>About me</h2>
-<img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE5MjI2NzIsIm5iZiI6MTcxMTkyMjM3MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzMxVDIxNTkzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkYTExMjdiMWRjMzI2NDBjMGUyMzRlZmMyMzNhNDRkZGE0OGJhNDdkZDUxNGZhYjM3ZGViNDUxZjEzOWRjODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dARy6XoPwJ1C2O06dEFnEH_YDIg5YHJSyKAY9Lt3IGU" width="500" height="500" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" height="500" />
 
 <ul>
     <li>💻  Currently developing my skills in artificial intelligence and application development</li>
