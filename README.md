@@ -9,8 +9,8 @@ I'm Michał, a first-year master's student of Informatics at AGH University of S
 <img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" width="500" height="380" />
 
 <ul>
-    <li>💻  Currently learning C++ and Electronics </li>
-    <li>⚡  Interested in Personal devolopment </li>
+    <li>💻  Currently developing my skills in artificial intelligence and application development</li>
+    <li>⚡  Interested in Personal development </li>
     <li>💬  Thinking on how to improve my website </li>
 </ul>
 
