@@ -37,40 +37,45 @@ I'm Michał, and I hold a **Master’s degree in Computer Science** from AGH Uni
 </br>
 
 ### Languages and Tools:
+### Languages and Tools:
 
 <div align="left">
-    
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/cpp.png" alt="website" width="40"/>
-  
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/python.png" alt="website" width="40"/>
-  
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/django.png" alt="website" width="40"/>
-  
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/html.png" alt="website" width="40"/>
-  
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/css.png" alt="website" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/matlab.png" alt="website" width="40"/>
+  <!-- 🚀 Core Cloud & DevOps Stack -->
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/azure.png" alt="Azure" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/kubernetes.png" alt="Kubernetes" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Terraform.png" alt="Terraform" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Ansible.png" alt="Ansible" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/OpenStack.png" alt="OpenStack" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/docker.png" alt="Docker" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Linux.jpg" alt="Linux" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Bash.svg" alt="Bash" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/git.png" alt="website" width="40"/>
+  <!-- 🔒 Infrastructure & Databases -->
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/PostgreSQL.png" alt="PostgreSQL" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/etcd.png" alt="etcd" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/apache_kafka.png" alt="Apache Kafka" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/gitlab.png" alt="website" width="40"/>
+  <!-- 📦 CI/CD & Version Control -->
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/git.png" alt="Git" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/gitlab.png" alt="GitLab" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/docker.png" alt="website" width="40"/>
+  <!-- 💻 Programming & Frameworks -->
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/python.png" alt="Python" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/cpp.png" alt="C++" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/django.png" alt="Django" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/html.png" alt="HTML" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/css.png" alt="CSS" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/apache_kafka.png" alt="website" width="40"/>
+  <!-- 🛠️ IDEs & Misc -->
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="VSCode" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/clion.png" alt="CLion" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/pycharm.png" alt="PyCharm" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/anaconda.png" alt="Anaconda" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/matlab.png" alt="Matlab" width="40"/>
 
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/vscode.png" alt="website" width="40"/>
-
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/clion.png" alt="website" width="40"/>
-
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/pycharm.png" alt="website" width="40"/>
-  
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/anaconda.png" alt="website" width="40"/>
-
-  
-    
 </div>
+
 
 </br>
 </br>
