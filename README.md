@@ -37,7 +37,6 @@ I'm Michał, and I hold a **Master’s degree in Computer Science** from AGH Uni
 </br>
 
 ### Languages and Tools:
-### Languages and Tools:
 
 <div align="left">
 
@@ -51,11 +50,8 @@ I'm Michał, and I hold a **Master’s degree in Computer Science** from AGH Uni
 
   <!-- 🔒 Infrastructure & Databases -->
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/PostgreSQL.png" alt="PostgreSQL" width="40"/>
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/apache_kafka.png" alt="Apache Kafka" width="40"/>
 
   <!-- 📦 CI/CD & Version Control -->
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/git.png" alt="Git" width="40"/>
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/gitlab.png" alt="GitLab" width="40"/>
 
   <!-- 💻 Programming & Frameworks -->
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/python.png" alt="Python" width="40"/>
