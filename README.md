@@ -1,7 +1,6 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Michał, a first-year master's student of Informatics at AGH University of Science and Technology.
-
+I'm Michał, and I hold a **Master’s degree in Computer Science** from AGH University of Science and Technology, with research focused on the **security of Unix-based systems in cloud computing**. I also hold an **Engineering degree in Mechatronics**.
 
 </br>
 
@@ -9,9 +8,9 @@ I'm Michał, a first-year master's student of Informatics at AGH University of S
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="450" />
 
 <ul>
-    <li>💻  Currently developing my skills in artificial intelligence and application development</li>
-    <li>⚡  Interested in Personal development </li>
-    <li>💬  Thinking on how to improve my website </li>
+    <li>☁️ Experienced with <b>Azure (Landing Zone principles)</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>Ansible</b>, and <b>OpenStack</b></li>
+    <li>🔒 Strong focus on <b>DevSecOps</b>, including threat detection and patching with <b>NIST vulnerability databases</b></li>
+    <li>⚡ Passionate about <b>cloud security</b>, <b>infrastructure automation</b>, and CI/CD</li>
 </ul>
 
 </br>
