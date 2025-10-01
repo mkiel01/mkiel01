@@ -45,10 +45,10 @@ I'm Michał, and I hold a **Master’s degree in Computer Science** from AGH Uni
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/azure.png" alt="Azure" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/kubernetes.png" alt="Kubernetes" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Terraform.png" alt="Terraform" width="40"/>
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Ansible.png" alt="Ansible" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Ansible.jpg" alt="Ansible" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/OpenStack.png" alt="OpenStack" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/docker.png" alt="Docker" width="40"/>
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Linux.jpg" alt="Linux" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/linux.png" alt="Linux" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Bash.svg" alt="Bash" width="40"/>
 
   <!-- 🔒 Infrastructure & Databases -->
