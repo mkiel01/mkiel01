@@ -8,7 +8,7 @@ I'm Michał, and I hold a **Master’s degree in Computer Science** from AGH Uni
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="450" />
 
 <ul>
-    <li>☁️ Experienced with <b>Azure (Landing Zone principles)</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>Ansible</b>, and <b>OpenStack</b></li>
+    <li>☁️ Experienced with <b>AWS (Landing Zone principles)</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>Ansible</b>, and <b>OpenStack</b></li>
     <li>🔒 Strong focus on <b>DevSecOps</b>, including threat detection and patching with <b>NIST vulnerability databases</b></li>
     <li>⚡ Passionate about <b>cloud security</b>, <b>infrastructure automation</b>, and CI/CD</li>
 </ul>
