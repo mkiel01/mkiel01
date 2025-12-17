@@ -41,7 +41,7 @@ I'm Michał, and I hold a **Master’s degree in Computer Science** from AGH Uni
 <div align="left">
 
   <!-- 🚀 Core Cloud & DevOps Stack -->
-  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/aws.png" alt="Azure" width="40"/>
+  <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/new_aws.png" alt="Azure" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/kubernetes.png" alt="Kubernetes" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/Terraform.png" alt="Terraform" width="40"/>
   <img src="https://github.com/mkiel01/mkiel01/blob/main/icons/docker.png" alt="Docker" width="40"/>
