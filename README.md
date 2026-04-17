@@ -14,8 +14,8 @@ Outside work, I build self-hosted projects to keep learning by doing: deployment
 
 <ul>
   <li>☁️ <b>Comarch (DevOps Engineer)</b> — internal CI-CD platform work, infrastructure automation, Kubernetes operations, observability, and security-focused operations in enterprise environments.</li>
-  <li>🍳 <b>Get Cookin’</b> — self-hosted recipe and inventory platform run across two machines and two Kubernetes clusters; Helm-based deployment, monitoring, and logging stack. <b>Public infra slice:</b> <a href="https://github.com/mkiel01/get_cookin_public"><code>get_cookin_public</code></a> (application source stays private).</li>
-  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python pipeline into PostgreSQL with reporting, containerized with Docker: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline">repo</a></li>
+  <li>🍳 <b>Get Cookin’</b> — self-hosted recipe and inventory platform run across two machines and two Kubernetes clusters; Helm-based deployment, monitoring, and logging stack. Public infra slice: <a href="https://github.com/mkiel01/get_cookin_public"><code>get_cookin_public</code></a> (application source stays private).</li>
+  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python pipeline into PostgreSQL with reporting, containerized with Docker: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline"><code>ClickUp-Time-Tracking-Pipeline</code></a></li>
 </ul>
 
 <br/>
@@ -50,10 +50,10 @@ Outside work, I build self-hosted projects to keep learning by doing: deployment
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=mkiel01&show_icons=true&theme=transparent&hide_rank=false" height="200" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mkiel01&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true" height="200" alt="GitHub stats" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiel01&langs_count=8&layout=compact&show_icons=true&icon_color=0096ff&theme=transparent&exclude_repo=Ocular_Disease_Recognition,Twitter_Sentiment_Analysis" height="200" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiel01&langs_count=8&layout=compact&theme=transparent&exclude_repo=Ocular_Disease_Recognition,Twitter_Sentiment_Analysis" height="200" alt="Top languages" />
     </td>
   </tr>
 </table>
