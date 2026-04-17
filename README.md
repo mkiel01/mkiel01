@@ -1,19 +1,26 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**DevOps engineer** with hands-on work on **Kubernetes**, **CI/CD**, and **IaC** (**OpenTofu**, **Terraform**, **Ansible**) alongside **Docker**, **PostgreSQL**, **etcd**, and **HAProxy**, across **on-prem**, **OpenStack**, and **GCP** — including **GCP Landing Zone** work (governance, identity, networking, security, monitoring). I care about **reliability**, **automation**, and **observability** (**Grafana**, **Prometheus**, **Fluentd**, **Zabbix**) and **security-minded operations** (hardening, vulnerability management, monitoring).
+I’m Michał — a **DevOps Engineer** who likes building real systems, not just slides.
+
+At work, I focus on platform engineering around **Kubernetes**, **IaC** (**Terraform**, **OpenTofu**, **Ansible**), and cloud environments (**GCP**, **OpenStack**).  
+Outside work, I build self-hosted projects to keep learning by doing: deployment, observability, reliability, and end-to-end operations.
 
 **MSc Computer Science** and **BEng Mechatronic Engineering**, **AGH University of Science and Technology**.
 
 <br/>
 
-<h2>Background</h2>
+<h2>What I’m building</h2>
 <img align="right" alt="" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" />
 
 <ul>
-  <li>☁️ <b>Comarch (DevOps Engineer)</b> — internal CI/CD on Rocky/OpenStack (Terraform, Ansible, Docker); Patroni/PostgreSQL, etcd, HAProxy, Kubernetes; observability (Fluentd, Prometheus, Grafana, Zabbix, org Elasticsearch/Kibana); GCP Landing Zone; ticket-driven GCP projects with <b>OpenTofu</b>; customer K8s with Kubespray; security ops including <b>NIST</b>-oriented vulnerability work.</li>
-  <li>🍳 <b>Get Cookin’</b> — self-hosted recipe/inventory platform; two machines / two clusters; Helm, Ingress, PVs, Postgres backups; Grafana, Zabbix, Fluentd→Elasticsearch→Kibana; stack: Next.js, Node.js, PostgreSQL, Redis, MinIO. <b>Public infra slice:</b> <a href="https://github.com/mkiel01/get_cookin_public"><code>get_cookin_public</code></a> (app source private).</li>
-  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python → PostgreSQL, Streamlit/Excel reporting; Docker, Compose, GitHub Actions: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline">repo</a></li>
+  <li>☁️ <b>Comarch (DevOps Engineer)</b> — internal CI-CD platform work, infrastructure automation, Kubernetes operations, observability, and security-focused operations in enterprise environments.</li>
+  <li>🍳 <b>Get Cookin’</b> — self-hosted recipe and inventory platform run across two machines and two Kubernetes clusters; Helm-based deployment, monitoring, and logging stack. <b>Public infra slice:</b> <a href="https://github.com/mkiel01/get_cookin_public"><code>get_cookin_public</code></a> (application source stays private).</li>
+  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python pipeline into PostgreSQL with reporting, containerized with Docker and automated with GitHub Actions: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline">repo</a></li>
 </ul>
+
+<br/>
+
+**Core stack:** Kubernetes, Terraform, OpenTofu, Ansible, Docker, GCP, OpenStack, PostgreSQL, Prometheus, Grafana, Fluentd, Elasticsearch, Kibana, Zabbix.
 
 <br/>
 
@@ -38,42 +45,12 @@
 <br clear="all"/>
 <br/>
 
-### Tools & technologies
-
-<div align="left">
-
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/new_aws1.png" alt="AWS" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/kubernetes.png" alt="Kubernetes" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/Terraform.png" alt="Terraform / OpenTofu" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/docker.png" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/linux.png" alt="Linux" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/Bash.svg" alt="Bash" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/PostgreSQL.png" alt="PostgreSQL" width="40"/>
-
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/python.png" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/cpp.png" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/django.png" alt="Django" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/html.png" alt="HTML" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/css.png" alt="CSS" width="40"/>
-
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/vscode.png" alt="VSCode" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/clion.png" alt="CLion" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/pycharm.png" alt="PyCharm" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/anaconda.png" alt="Anaconda" width="40"/>
-  <img src="https://raw.githubusercontent.com/mkiel01/mkiel01/main/icons/matlab.png" alt="Matlab" width="40"/>
-
-</div>
-
-<p align="left"><sub>Also per CV: <b>Helm</b>, <b>GCP</b>, <b>OpenStack</b>, <b>Redis</b>, <b>MinIO</b>, <b>etcd</b>, <b>HAProxy</b>, <b>Grafana</b>, <b>Prometheus</b>, <b>Fluentd</b>, <b>Elasticsearch</b>, <b>Kibana</b>, <b>Zabbix</b>, <b>Git</b>, <b>GitLab</b>, <b>GitHub</b>.</sub></p>
-
-<br/>
-
 ## GitHub stats
 
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=mkiel01&show_icons=true&theme=transparent&hide_rank=true" height="200" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mkiel01&show_icons=true&theme=transparent&hide_rank=false" height="200" alt="GitHub stats" />
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiel01&langs_count=8&layout=compact&show_icons=true&icon_color=0096ff&theme=transparent&exclude_repo=Ocular_Disease_Recognition,Twitter_Sentiment_Analysis" height="200" alt="Top languages" />
