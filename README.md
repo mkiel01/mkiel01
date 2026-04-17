@@ -3,6 +3,7 @@
 I’m Michał — a **DevOps Engineer** who likes building real systems, not just slides.
 
 At work, I focus on platform engineering around **Kubernetes**, **IaC** (**Terraform**, **OpenTofu**, **Ansible**), and cloud environments (**GCP**, **OpenStack**).  
+
 Outside work, I build self-hosted projects to keep learning by doing: deployment, observability, reliability, and end-to-end operations.
 
 **Master’s degree in Computer Science** and **Engineering degree in Mechatronic Engineering**, **AGH University of Science and Technology**.
