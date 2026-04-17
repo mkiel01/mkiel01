@@ -1,9 +1,8 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Michał — a **DevOps Engineer** who likes building real systems, not just slides.
+I’m Michał — a **DevOps Engineer** who enjoys building real systems, not just slides.
 
 At work, I focus on platform engineering around **Kubernetes**, **IaC** (**Terraform**, **OpenTofu**, **Ansible**), and cloud environments (**GCP**, **OpenStack**).  
-
 Outside work, I build self-hosted projects to keep learning by doing: deployment, observability, reliability, and end-to-end operations.
 
 **Master’s degree in Computer Science** and **Engineering degree in Mechatronic Engineering**, **AGH University of Science and Technology**.
@@ -14,9 +13,9 @@ Outside work, I build self-hosted projects to keep learning by doing: deployment
 <img align="right" alt="" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" />
 
 <ul>
-  <li>☁️ <b>Comarch (DevOps Engineer)</b> — internal CI-CD platform work, infrastructure automation, Kubernetes operations, observability, and security-focused operations in enterprise environments.</li>
-  <li>🍳 <b>Get Cookin’</b> — self-hosted recipe and inventory platform run across two machines and two Kubernetes clusters; Helm-based deployment, monitoring, and logging stack. Public infra slice: <a href="https://github.com/mkiel01/get_cookin_public"><code>get_cookin_public</code></a> (application source stays private).</li>
-  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python pipeline into PostgreSQL with reporting, containerized with Docker: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline"><code>ClickUp-Time-Tracking-Pipeline</code></a></li>
+  <li>☁️ <b>Comarch (DevOps Engineer)</b> — internal CI/CD platform work, infrastructure automation, Kubernetes operations, observability, and security-focused operations in enterprise environments.</li>
+  <li>🍳 <b>Get Cookin’</b> — self-hosted recipe and inventory platform running across two machines and two Kubernetes clusters, with Helm-based deployment, monitoring, and logging. Public infra slice: <a href="https://github.com/mkiel01/get_cookin_public"><code>get_cookin_public</code></a> (application source stays private).</li>
+  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python pipeline into PostgreSQL with reporting and Dockerized runtime: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline"><code>ClickUp-Time-Tracking-Pipeline</code></a>.</li>
 </ul>
 
 <br/>
