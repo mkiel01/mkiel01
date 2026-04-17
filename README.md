@@ -5,7 +5,7 @@ I’m Michał — a **DevOps Engineer** who likes building real systems, not jus
 At work, I focus on platform engineering around **Kubernetes**, **IaC** (**Terraform**, **OpenTofu**, **Ansible**), and cloud environments (**GCP**, **OpenStack**).  
 Outside work, I build self-hosted projects to keep learning by doing: deployment, observability, reliability, and end-to-end operations.
 
-**MSc Computer Science** and **BEng Mechatronic Engineering**, **AGH University of Science and Technology**.
+**Master’s degree in Computer Science** and **Engineering degree in Mechatronic Engineering**, **AGH University of Science and Technology**.
 
 <br/>
 
@@ -15,7 +15,7 @@ Outside work, I build self-hosted projects to keep learning by doing: deployment
 <ul>
   <li>☁️ <b>Comarch (DevOps Engineer)</b> — internal CI-CD platform work, infrastructure automation, Kubernetes operations, observability, and security-focused operations in enterprise environments.</li>
   <li>🍳 <b>Get Cookin’</b> — self-hosted recipe and inventory platform run across two machines and two Kubernetes clusters; Helm-based deployment, monitoring, and logging stack. <b>Public infra slice:</b> <a href="https://github.com/mkiel01/get_cookin_public"><code>get_cookin_public</code></a> (application source stays private).</li>
-  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python pipeline into PostgreSQL with reporting, containerized with Docker and automated with GitHub Actions: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline">repo</a></li>
+  <li>📋 <b>ClickUp time-tracking pipeline</b> — Python pipeline into PostgreSQL with reporting, containerized with Docker: <a href="https://github.com/mkiel01/ClickUp-Time-Tracking-Pipeline">repo</a></li>
 </ul>
 
 <br/>
